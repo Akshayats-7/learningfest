@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    
+}
+
+.bg{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAZZj62MujAdB2tswbP51k1DxmCXXbxnt7R_SG6cGbAg&s');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 , p {
+    color: rgb(14, 13, 13);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
